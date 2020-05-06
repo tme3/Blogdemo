@@ -1,3 +1,4 @@
+  
 * {
     margin: 0;
     padding: 0;
@@ -5,7 +6,7 @@
 body {
     background-color: #1B1A16;
     font-family: "Roboto Mono", sans-serif;
-}     
+}
 header {
     height: 6vh;
     margin: 20px;
@@ -20,7 +21,7 @@ header h6 {
 }
 a {
     color: #ff8939;
-} 
+}
 nav {
     border-top: dashed 1px #C3A5B3;
     border-bottom: dashed 1px #C3A5B3;
@@ -40,23 +41,28 @@ nav ul li:hover {
 nav ul li a{
     text-decoration: none;
 }
-
 #post {
-        font-size: 16px;
-        margin: 20px;
-        margin-top: 0;
-    }
-    #main {
-        font-size: 26px;
-    }
-    .subject {
-        margin-top: 20px;
-        margin-bottom: 10px;
-        font-size: 22px;
-        color: #FF8939;
-        margin-bottom: 10px;
-    }
-    .info { 
-        color: #C3A5B3;
-        font-family: monospace;
-    }
+    font-size: 16px;
+    margin: 20px;
+    margin-top: 0;
+}
+#main {
+    font-size: 26px;
+}
+.subject {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 22px;
+    color: #FF8939;
+    margin-bottom: 10px;
+}
+.info { 
+    color: #C3A5B3;
+    font-family: monospace;
+}
+
+
+
+
+
+
